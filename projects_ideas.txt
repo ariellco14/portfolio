@@ -1,2 +1,3 @@
 NLP Positive Negative Training
 Crypto Auto Trader
+Image Recognition
